@@ -1,0 +1,35 @@
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: yellow;
+    letter-spacing: -2px;
+    font-family: "Comic Sans MS";
+}
+h3{
+    font-family: "Comic Sans MS";
+    color: blueviolet;
+}
+h4{
+    font-family: "Comic Sans MS";
+    color: red;
+}
+p{
+    font-family: "Comic Sans MS";
+    color: rgb(226, 90, 36);
+}
+.Game{
+    font-size: 15px;
+    font-family: "Comic Sans MS";
+}
+.Story{
+    font-size: 15px;
+    font-family: "Comic Sans MS";
+}
+.BTS{
+    font-family: "Comic Sans MS";
+    color: purple;
+}
+li{
+    font-family: "Comic Sans MS";
+    color: brown;
+}
